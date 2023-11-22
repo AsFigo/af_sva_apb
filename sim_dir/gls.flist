@@ -1,0 +1,6 @@
+-DVW_GLS
+-DVERILATOR_UVM_LITE
+-I../src/APB_CIP_src/netlist_src/
+../src/APB_CIP_src/netlist_src/osu035_stdcells.v
+../go2uvm/go2uvm/src/vw_go2uvm_pkg.sv
+

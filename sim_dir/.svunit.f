@@ -1,0 +1,9 @@
++incdir+/home/srini/Documents/cip_copy_paste/af_sva_apb/sim_dir
++incdir+/home/srini/Documents/cip_copy_paste/af_sva_apb/vlt_svunit/svunit/svunit/svunit_base/junit-xml
+/home/srini/Documents/cip_copy_paste/af_sva_apb/vlt_svunit/svunit/svunit/svunit_base/junit-xml/junit_xml.sv
++incdir+/home/srini/Documents/cip_copy_paste/af_sva_apb/vlt_svunit/svunit/svunit/svunit_base
+/home/srini/Documents/cip_copy_paste/af_sva_apb/vlt_svunit/svunit/svunit/svunit_base/svunit_pkg.sv
+/home/srini/Documents/cip_copy_paste/af_sva_apb/sim_dir/./../src/AXI/axi4_lite/af_axi_tests.sv
++incdir+/home/srini/Documents/cip_copy_paste/af_sva_apb/sim_dir/.
+.__testsuite.sv
+.testrunner.sv
